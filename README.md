@@ -1,5 +1,5 @@
 ### CURRICULO DANIELLE
-Danielle Cristina de Souza Castro
+<b>Danielle Cristina de Souza Castro<b\>
 daniellecastro028@gmail.com
 (85) 99620.5409
 Categoria A/B
