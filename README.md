@@ -5,10 +5,10 @@ daniellecastro028@gmail.com
 Categoria A/B
 Rua Bartolomeu dia, 67 – messejana
 Fortaleza-Ce
-Objetivo
+<b>Objetivo<b\>
 Ser Profissional atenta em atender as necessidades da empresa, aceitando
 desafios e responsabilidades com dedicação e foco nos resultados.
-Experiência
+<b>Experiência<b\>
 Assistente administrativo pessoal – Norte/Nordeste
 Stefanini consultoria e assessoria em informática
 Junho de 2019 – Atual emprego (2 ano 8 mês)
@@ -39,3 +39,40 @@ Julho de 2006 - dezembro de 2010 (4 anos 6 meses)
 Fortaleza e Região, Brasil
 Serviço Executado: Pagamento de folha de funcionario, Rescisão, Admissão,
 controle de beneficios (transporte, combustivel, e refeição).
+<b>Formação acadêmica<b\>
+Faculdade Ateneu
+Tecnologo, Gestão Financeira · (2016 – 2018)
+Fortaleza e Região, Brasil
+Estácio
+Graduação, Administração de Empresas · (2018 - 2023)
+Fortaleza e Região, Brasil
+<b>Principais competências<b/>
+Conciliação bancária
+Corel Draw - avancado
+Contas a pagar
+Microsoft Excel - avancado
+AutoCAD - basico
+Adobe Illustrator - intermediario
+Sistemas operacionais
+Revit - basico
+Microsoft PowerPoint - avancado
+Microsoft Office - avancado
+Microsoft Word - avancado
+Atendimento ao Cliente
+Trabalho em equipe
+Prestação de contas
+Sistema conta azul
+Emissao de Notas fiscais
+Emissão de faturas de clientes
+Controle de estoque
+Controle de qualidade
+sistema totvs
+Contas a pagar e a receber
+Negociação de compras
+Contratação de pessoal
+Finanças
+<b>Idiomas<b\>
+Espanhol
+Nível de Conhecimento: Básico
+Inglês
+Nível de Conhecimento: Básico
